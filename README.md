@@ -7,7 +7,7 @@
 - [x] **Semana 1: Día 1** - Instalación, "Hola Mundo" real y Variables básicas.
 - [x] **Semana 1: Día 2** - Tipos de datos avanzados (Floats, Booleans) y Operadores.
 - [x] **Semana 1: Día 3** - Listas y Diccionarios (Estructuras de datos).
-- [ ] **Semana 1: Día 4** - Control de Flujo (If, Else, For, While).
+- [x] **Semana 1: Día 4** - Control de Flujo (If, Else, For, While).
 - [ ] **Semana 1: Día 5** - Funciones y modularización.
 
 ## 🛠️ Mi Setup
