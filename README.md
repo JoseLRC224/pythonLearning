@@ -8,7 +8,7 @@
 - [x] **Semana 1: Día 2** - Tipos de datos avanzados (Floats, Booleans) y Operadores.
 - [x] **Semana 1: Día 3** - Listas y Diccionarios (Estructuras de datos).
 - [x] **Semana 1: Día 4** - Control de Flujo (If, Else, For, While).
-- [ ] **Semana 1: Día 5** - Funciones y modularización.
+- [x] **Semana 1: Día 5** - Funciones y modularización.
 
 ## 🛠️ Mi Setup
 - **OS:** Fedora Linux 43
