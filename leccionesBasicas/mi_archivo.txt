@@ -1,0 +1,2 @@
+Esta es la línea original.
+Esta es una línea nueva que se añadió después.
