@@ -10,6 +10,17 @@
 - [x] **Semana 1: Día 4** - Control de Flujo (If, Else, For, While).
 - [x] **Semana 1: Día 5** - Funciones y modularización.
 
+## 🛠️ Plan de Trabajo (Fase 2: Herramientas Pro)
+
+- [x] **Manejo de Errores (Excepciones):** Uso de `try`, `except`, `raise` y validaciones lógicas.
+- [ ] **Entornos Virtuales Avanzados:** Gestión de dependencias con `pip freeze` y `requirements.txt`.
+- [ ] **Persistencia de Datos:** Lectura y escritura de archivos (`.txt`, `.json`).
+- [ ] **Modularización:** Organización de archivos y creación de módulos propios.
+
+## 📦 Dependencias del Proyecto
+Para recrear este entorno de desarrollo, utiliza:
+`pip install -r requirements.txt`
+
 ## 🛠️ Mi Setup
 - **OS:** Fedora Linux 43
 - **Terminal:** Kitty
